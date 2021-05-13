@@ -1,8 +1,8 @@
 {
   "name": "ab",
   "version": "1.0.0",
-  "type": "commonjs",
-  "main": "index.js",
+  "type": "module",
+  "module": "index.js",
   "repository": "https://github.com/lichess-org/ab-stub.git",
   "license": "MIT",
   "private": true

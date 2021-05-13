@@ -1,2 +1,2 @@
-exports.init = (round) => {};
-exports.move = (round, meta) => {};
+export function init(round) {}
+export function move(round, meta) {}
